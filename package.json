@@ -1,0 +1,72 @@
+{
+  "name": "ed4022",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/material": "^5.14.16",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@tripetto/block-calculator": "^4.0.3",
+    "@tripetto/block-checkbox": "^6.0.2",
+    "@tripetto/block-checkboxes": "^7.1.1",
+    "@tripetto/block-date": "^4.0.3",
+    "@tripetto/block-device": "^5.0.2",
+    "@tripetto/block-dropdown": "^7.0.0",
+    "@tripetto/block-email": "^6.0.3",
+    "@tripetto/block-error": "^5.0.4",
+    "@tripetto/block-evaluate": "^4.0.2",
+    "@tripetto/block-file-upload": "^5.0.2",
+    "@tripetto/block-hidden-field": "^6.2.3",
+    "@tripetto/block-mailer": "^6.0.3",
+    "@tripetto/block-matrix": "^6.0.0",
+    "@tripetto/block-multi-select": "^2.1.1",
+    "@tripetto/block-multiple-choice": "^7.0.1",
+    "@tripetto/block-number": "^8.0.3",
+    "@tripetto/block-paragraph": "^5.0.2",
+    "@tripetto/block-password": "^6.0.2",
+    "@tripetto/block-phone-number": "^4.0.2",
+    "@tripetto/block-picture-choice": "^6.0.1",
+    "@tripetto/block-radiobuttons": "^8.0.0",
+    "@tripetto/block-ranking": "^1.0.10",
+    "@tripetto/block-rating": "^6.0.3",
+    "@tripetto/block-regex": "^4.0.2",
+    "@tripetto/block-scale": "^4.0.3",
+    "@tripetto/block-setter": "^3.0.3",
+    "@tripetto/block-statement": "^5.0.3",
+    "@tripetto/block-stop": "^3.0.2",
+    "@tripetto/block-text": "^6.0.2",
+    "@tripetto/block-textarea": "^6.0.3",
+    "@tripetto/block-url": "^6.0.2",
+    "@tripetto/block-variable": "^3.0.3",
+    "@tripetto/block-yes-no": "^6.0.0",
+    "@tripetto/builder": "^6.1.0",
+    "@tripetto/runner": "^8.0.2",
+    "@tripetto/runner-autoscroll": "^8.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
